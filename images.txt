@@ -1,2 +1,3 @@
 elastic/filebeat:8.14.1
 analythium/shinyproxy-demo
+rocker/r-base:latest
